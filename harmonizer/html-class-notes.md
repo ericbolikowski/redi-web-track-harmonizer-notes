@@ -26,10 +26,15 @@
 - Speak from the gut!
 
   > This is tricky shit. Switching this CSS like this fucks your layout up. This fucks you up.
+
   > What a good question. You son of a bitch.
+
   > You can make your site do incredible shit.
+
   > Take a look at your websites and just fuck around with them.
+
   > You better bring your ass to class on fucking time. We won't wait around for you.
+
   > Now get the fuck out of here!
 
   Teacher comment about this... "technique":
