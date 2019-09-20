@@ -24,23 +24,6 @@
 ## Teaching principles
 
 - Speak from the gut!
-
-  > This is tricky shit. Switching this CSS like this fucks your layout up. This fucks you up.
-
-  > What a good question. You son of a bitch.
-
-  > You can make your site do incredible shit.
-
-  > Take a look at your websites and just fuck around with them.
-
-  > You better bring your ass to class on fucking time. We won't wait around for you.
-
-  > Now get the fuck out of here!
-
-  Teacher comment about this... "technique":
-
-  > "It helps to keep the mood up"
-
 - Teachers ask "control questions" to students.
 - Incredibly laid back and encouraging attitude and atmosphere. "Isn't that awesome?! Isn't that the coolest thing you've seen?"
 - Use Chrome DevTools to show in-real-time how changing CSS properties works
